@@ -12,7 +12,7 @@ An interactive 3D web application featuring a submarine model, created using Thr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/{username}/submarine-3d-experience.git
+   git clone https://github.com/abhishek-c24/submarine-3d-experience.git
    cd submarine-3d-experience
    ```
 
